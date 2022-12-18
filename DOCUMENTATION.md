@@ -1,3 +1,19 @@
+PROBLEM STATEMENT
+In this project we aim to solve the problem of Bill generation
+in local shops which do not practice having a hard copy of a bill
+always.
+
+SYSTEM REQUIREMENTS
+-SOFTWARE USED
+Python - Spyder(anaconda3) with FILE HANDLING
+-MODULES USED
+tkinter
+math
+random
+os
+-HARDWARE USED
+Device (Which supports software)
+
 INTRODUCTION
 In this project, we have created a Billing software. 
 It inputs the customer’s details and then
@@ -29,7 +45,8 @@ to the home screen of the device. The bills will be saved in
 a folder in the format of a text file(.txt) by the name of
 their corresponding bill number. That text file can later be
 shared or printed as per the user's choice.
-(NOTE: For saving bills in your device you need to have a folder named "Bills" created)
+(NOTE: For saving bills in your device you need to have a folder
+named "Bills" created)
 
 SCOPE
 Our project has a huge future scope as it can be sold to
@@ -38,14 +55,3 @@ Jaago Grahak Jaago or can be turned into an online
 website or app which sells and delivers products online by
 creating Login/Signup part and adding more products
 and payment settings.
-
-SYSTEM REQUIREMENTS
--SOFTWARE USED
-Python - Spyder(anaconda3) with FILE HANDLING
--MODULES USED
-tkinter
-math
-random
-os
--HARDWARE USED
-Device (Which supports software)
